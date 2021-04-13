@@ -49,7 +49,7 @@ const Timer = () => {
         <div>
           <span className="fa fa-clock timer-icon"></span>
           <h1>Countdown Timer</h1>
-          <p className="timer-text">Countdown to valinetine!!</p>
+          <p className="timer-text">Countdown to Marketplace Launch!!</p>
         </div>
         <div>
           <section>
